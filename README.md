@@ -15,7 +15,7 @@ Este projeto é um sistema simples de cadastro de usuários utilizando React no 
 ### 1. Clone o repositório ou baixe os arquivos
 
 ```bash
-git clone <url-do-seu-repositorio>
+git clone <https://github.com/guilherme-caze/PostMan1.git>
 cd PostMan1/postman1
 ```
 
