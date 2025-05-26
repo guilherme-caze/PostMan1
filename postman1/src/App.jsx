@@ -10,7 +10,7 @@ function Form() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch("http://localhost:3001/salvar", {
+      const response = await fetch("http://localhost:3001/cadastro", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),
